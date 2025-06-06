@@ -8,7 +8,7 @@ Welcome to my portfolio! I'm a data engineer passionate about building scalable,
 
 ## 🧠 About Me
 
-- 🎓 Background in Computer Science and Data Engineering
+- 🎓 Background in Actuarial science and Data Engineering
 - 🔧 Skilled in building end-to-end data pipelines and data lakes
 - ☁️ Cloud-first mindset with hands-on experience in AWS and Azure
 - 🧰 DevOps-oriented: CI/CD, Docker, Terraform, and orchestration tools
